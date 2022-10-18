@@ -1,24 +1,22 @@
-## Simple API Rest with NodeJS and Express
+## Simple API Rest con NodeJS y Express
 
-This project is a simple api rest whit this HTTP verbs:
+Este proyecto es una simple api rest con estos verbos HTTP:
 + GET
 + POST
 + PUT
 + DELETE
 
-Does not uses a database, instead uses a simple Json file as simulation, because the purpose of this project is to understand how to build a API in Node, but is fully functional.
+No utiliza una base de datos, en su lugar utiliza un simple archivo Json como simulación, porque el propósito de este proyecto es entender cómo construir una API en Node, pero es totalmente funcional.
 
-This project uses the following technologies:
+Este proyecto utiliza las siguientes tecnologías:
 
 + Node JS
 + Express
 + Morgan
 + nodemon
-+ underscore
-+ fetch
++ Mongoose
++ MongoDB
 
+*Para ejecutar ejecuta el siguiente comando: npm run dev*
 
-*For running execute the following command: npm run dev*
-
-*Visit my tech blog www.bravedeveloper.com*
-*Gerson Azabache Martínez*
+Bryan Hidalgo UDB NODE JS
